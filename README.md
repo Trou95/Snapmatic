@@ -63,7 +63,7 @@ Run game as administrator or check file permissions for it to work properly
 ------------
 
 
-###Credits
+### Credits
 - Imgui - @ocornut
 
 ### Special Thanks To
