@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Visual\VMTHookManager.cpp">
+      <Filter>Visual</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\CVisual.cpp">
+      <Filter>Visual</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\imgui\imgui.cpp">
+      <Filter>Visual\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\imgui\imgui_demo.cpp">
+      <Filter>Visual\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\imgui\imgui_draw.cpp">
+      <Filter>Visual\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\imgui\imgui_impl_dx9.cpp">
+      <Filter>Visual\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\imgui\imgui_impl_win32.cpp">
+      <Filter>Visual\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\imgui\imgui_tables.cpp">
+      <Filter>Visual\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\imgui\imgui_widgets.cpp">
+      <Filter>Visual\imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="CSnapmatic.cpp" />
+    <ClCompile Include="Game\CGame.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\menu\CUIElement.cpp">
+      <Filter>Visual\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\menu\CCheckbox.cpp">
+      <Filter>Visual\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\menu\CButton.cpp">
+      <Filter>Visual\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\menu\CButtonGroup.cpp">
+      <Filter>Visual\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\menu\CTime.cpp">
+      <Filter>Visual\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\menu\CWeather.cpp">
+      <Filter>Visual\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Visual\menu\CMenu.cpp">
+      <Filter>Visual\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="CKeys.cpp" />
+    <ClCompile Include="CSettings.cpp" />
+    <ClCompile Include="Samp\CSamp.cpp">
+      <Filter>Samp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h" />
+    <ClInclude Include="Visual\VMTHookManager.h">
+      <Filter>Visual</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\CVisual.h">
+      <Filter>Visual</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\imgui\imconfig.h">
+      <Filter>Visual\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\imgui\imgui.h">
+      <Filter>Visual\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\imgui\imgui_impl_dx9.h">
+      <Filter>Visual\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\imgui\imgui_impl_win32.h">
+      <Filter>Visual\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\imgui\imgui_internal.h">
+      <Filter>Visual\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\imgui\imstb_rectpack.h">
+      <Filter>Visual\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\imgui\imstb_textedit.h">
+      <Filter>Visual\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\imgui\imstb_truetype.h">
+      <Filter>Visual\imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="CSnapmatic.h" />
+    <ClInclude Include="Game\CGame.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\menu\CUIElement.h">
+      <Filter>Visual\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\menu\CCheckbox.h">
+      <Filter>Visual\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\menu\CButton.h">
+      <Filter>Visual\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\menu\CButtonGroup.h">
+      <Filter>Visual\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\menu\CTime.h">
+      <Filter>Visual\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\menu\CWeather.h">
+      <Filter>Visual\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Visual\menu\CMenu.h">
+      <Filter>Visual\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="CKeys.h" />
+    <ClInclude Include="CSettings.h" />
+    <ClInclude Include="Samp\CSamp.h">
+      <Filter>Samp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Samp">
+      <UniqueIdentifier>{37301871-e8e9-4448-9c88-7819f4cdd942}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Visual">
+      <UniqueIdentifier>{f8354ad5-71e8-45ea-bd8a-60ec3c393c40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Visual\imgui">
+      <UniqueIdentifier>{61e22d7c-3520-4d42-9b3a-2074b7e50cd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{dc5ab8e0-8ef8-4bdb-9d36-cde6b30d1edd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Visual\menu">
+      <UniqueIdentifier>{ddf36400-ce69-4ed2-a341-fcdab4cccd4b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

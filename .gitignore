@@ -1,0 +1,4 @@
+.*
+/src/snapmatic/Debug/*
+/src/snapmatic/Release/*
+!/.gitignore
