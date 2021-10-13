@@ -64,7 +64,7 @@ Run game as administrator or check file permissions for it to work properly
 
 
 ### Credits
-- Imgui - @ocornut
+- Imgui - [@ocornut](https://github.com/ocornut "ocornut")
 
 ### Special Thanks To
 - Mta Team for mta sa ([@multitheftauto](https://github.com/multitheftauto "multitheftauto"))
