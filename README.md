@@ -63,6 +63,13 @@ Run game as administrator or check file permissions for it to work properly
 ------------
 
 
+###Credits
+- Imgui - @ocornut
 
+### Special Thanks To
+- Mta Team for mta sa ([@multitheftauto](https://github.com/multitheftauto "multitheftauto"))
+- FYP for mod_sa ([@FYP](https://github.com/THE-FYP "THEFYP"))
+- DK22Pac for plugin SDK ([@DK22Pac](https://github.com/DK22Pac "DK22Pac"))
+- Everyone at GtaForums.com
 
 
